@@ -1,4 +1,9 @@
+# Python compiled files
 **.pyc
 
-.vscode
+# Editor configuration directories
+/.vscode/
+/.idea/
 
+# Pytest cache directories
+/.pytest_cache/
